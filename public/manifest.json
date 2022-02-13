@@ -1,0 +1,45 @@
+{
+  "short_name": "Your Mood",
+  "name": "How is your mood",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "angry.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "happy-face.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "in-love.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "rolling-eyes.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "sad-face.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "thinking.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
